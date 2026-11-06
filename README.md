@@ -4,7 +4,6 @@
 ## Báo cáo IPO: Khôi phục quyền truy cập AWS
 - Input (Đầu vào)
 
-    IAM Username và Password hiện tại.
     
     01 Backup Code hợp lệ (được lưu trữ ngoại tuyến từ trước).
     
